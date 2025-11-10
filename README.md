@@ -16,7 +16,7 @@ This respository contains all data (except from the raw FASTQ files, which are a
 * **SupplementaryFile1.xlsx** - CPOP scores and standard deviations for DHFR indel, synonymous and nonsense variants in the WT strain, ubr1 knockout strain, and san1 knockout strain, as well as all primer sequences combined in a single Excel file.
 
 ## Processing of raw sequencing data
-The function.py file is used to call DHFR variants and calculate CPOP scores. The script takes raw FASTQ files as input. The output is a dataset with CPOP scores and standard deviations for DHFR indel, synonymous and nonsense variants.
+The function.py file (available here https://github.com/KULL-Centre/_2024_Larsen-Ledet_CPOP) is used to call DHFR variants and calculate CPOP scores. The script takes raw FASTQ files as input. The output is a dataset with CPOP scores and standard deviations for DHFR indel, synonymous and nonsense variants.
 
 ## Data analysis and plotting
 The CPOP2.0_code.R file is used to produce all plots in the main figures, and the CPOP2.0_supplementary_code.R file is used to produce all plots in the supplementary figures.
