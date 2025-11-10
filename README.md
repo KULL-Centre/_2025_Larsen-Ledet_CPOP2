@@ -13,7 +13,7 @@ This respository contains all data (except from the raw FASTQ files, which are a
 * **CPOP_data_original_2024.csv** - CPOP scores and standard deviations for DHFR indel, synonymous and nonsense variants in the original CPOP paper Larsen-Ledet et al.: "Systematic characterization of indel variants using a yeast-based protein folding sensor" (https://doi.org/10.1016/j.str.2024.11.017)
 
 *Excel files*
-* **SupplementaryFile1.xlsx** - CPOP scores and standard deviations for DHFR indel, synonymous and nonsense variants in the WT strain, ubr1 knockout strain, and san1 knockout strain, as well as all primer sequences combined in a single Excel file.
+* **SupplementaryFile1.xlsx** - A single combined Excel file with CPOP scores and standard deviations for DHFR indel, synonymous and nonsense variants in the WT strain, ubr1 knockout strain, and san1 knockout strain, all primer sequences, and raw aggregate, nanoDSF, and Western blotting data.
 
 ## Processing of raw sequencing data
 The function.py file (available here https://github.com/KULL-Centre/_2024_Larsen-Ledet_CPOP/blob/main/functions.py) is used to call DHFR variants and calculate CPOP scores. The script takes raw FASTQ files as input. The output is a dataset with CPOP scores and standard deviations for DHFR indel, synonymous and nonsense variants.
