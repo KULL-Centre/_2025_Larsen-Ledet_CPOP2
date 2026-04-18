@@ -21,7 +21,7 @@ This respository contains all data (except from the raw FASTQ files, which are a
 The function.py file (available here https://github.com/KULL-Centre/_2024_Larsen-Ledet_CPOP/blob/main/functions.py) is used to call DHFR variants and calculate CPOP scores. The script takes raw FASTQ files as input. The output is a dataset with CPOP scores and standard deviations for DHFR indel, synonymous and nonsense variants.
 
 ## Data analysis and plotting
-The CPOP2.0_code.R file is used to produce all plots in the main figures, and the CPOP2.0_supplementary_code.R file is used to produce all plots in the supplementary figures.
+The CPOP2.0_code.R file is used to produce all plots in the main figures.
 
 ## Paper
 https://www.biorxiv.org/content/10.64898/2025.12.09.693117v1.full
