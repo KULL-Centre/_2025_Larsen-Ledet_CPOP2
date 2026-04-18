@@ -1,6 +1,6 @@
 # Blocking protein quality degradation leads to structural stabilization of DHFR indel variants
 ## Introduction
-This respository contains all data (except from the raw FASTQ files, which are available at the NCBI Gene Expression Omnibus (GEO) repository (accession number: GSE302176)) and code to repeat the processing and analysis of the CPOP2 data in Larsen-Ledet et al.: "Blocking protein quality degradation leads to structural stabilization of DHFR indel variants".
+This respository contains all data (except from the raw FASTQ files, which are available at the NCBI Gene Expression Omnibus (GEO) repository (accession number: GSE302176)) and code to repeat the processing and analysis of the CPOP2.0 data in Larsen-Ledet et al.: "Blocking protein quality degradation leads to structural stabilization of DHFR indel variants".
 
 ## Overview of files
 *Output files*
