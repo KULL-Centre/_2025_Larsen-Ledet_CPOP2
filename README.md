@@ -7,7 +7,7 @@ This respository contains all data (except from the raw FASTQ files, which are a
 * **CPOP_data_WT.csv** - CPOP scores and standard deviations for DHFR indel, synonymous and nonsense variants in the WT strain.
 * **CPOP_data_ubr1.csv** - CPOP scores and standard deviations for DHFR indel, synonymous and nonsense variants in the ubr1 knockout strain.
 * **CPOP_data_san.csv** - CPOP scores and standard deviations for DHFR indel, synonymous and nonsense variants in the san1 knockout strain.
-* *1u72_dssp** - Relative solvent accessible surface area (rSASA) for each residue in DHFR.
+* **rSASA** - Relative solvent accessible surface area (rSASA) for each residue in DHFR.
 * **[WT|Ubr1|San1]_per_tile_variant_counts_tile[1-5].csv** - Counts per tile for DHFR indel, synonymous and nonsense variants for each replicate, condition, and strain (WT, ubr1 knockout, and san1 knockout).
   
 *Input files*
